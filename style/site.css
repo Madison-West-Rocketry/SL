@@ -1,0 +1,29 @@
+body {
+    background-color : "#7A8DF0";
+}
+
+* {
+    color : white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+h1 {
+    font-weight: 900;
+    font-style: italic;
+}
+
+h3 {
+    font-weight: 600;
+    font-style: italic;
+}
+
+h4 {
+    font-weight: 300;
+    font-style: italic;
+}
