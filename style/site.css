@@ -29,6 +29,10 @@ ul {
     padding-left: 0;
 }
 
+li {
+    padding-bottom: 5px;
+}
+
 .hoverable :hover {
     background-color : #1a1d277F;
 }
